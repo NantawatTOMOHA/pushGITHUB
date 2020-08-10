@@ -1,6 +1,6 @@
 #include<stdio.h>
 float s,d,result=0;
-main() {
+int main() {
 	printf("rectangle area \n");
 	scanf("%f%f",&s,&d);
 	result = s * d;
